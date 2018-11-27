@@ -5,5 +5,9 @@
 ## Getting started
 
 * [Installation](getting-started/installation.md)
-* [FAQ](getting-started/faq.md)
+
+## Help Center
+
+* [Bug Report](help-center/bug-report.md)
+* [FAQ](help-center/faq.md)
 
