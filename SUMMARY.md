@@ -1,4 +1,9 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [About Cortex](README.md)
+
+## Getting started
+
+* [Installation](getting-started/installation.md)
+* [FAQ](getting-started/faq.md)
 
