@@ -5,6 +5,15 @@
 ## Getting started
 
 * [Installation](getting-started/installation.md)
+* [Usage](getting-started/usage.md)
+
+## Advanced Use
+
+* [Export Cortex live data](advanced-use/export-cortex-live-data.md)
+
+## Contributing
+
+* [Game Detection](contributing/game-detection.md)
 
 ## Help Center
 
