@@ -1,5 +1,5 @@
 ---
-description: It's easy as A B C
+description: It's easy as A B C !
 ---
 
 # Usage

@@ -1,5 +1,5 @@
 ---
-description: Learn how to use Cortex live data outside the application
+description: Learn how to use Cortex live data outside the application.
 ---
 
 # Export Cortex live data
